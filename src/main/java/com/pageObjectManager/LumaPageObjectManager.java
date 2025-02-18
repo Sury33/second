@@ -12,6 +12,7 @@ public class LumaPageObjectManager {
 	private ProductPagePOM product;
 	private ShippingPagePOM address;
 	private confirmationPagePOM confirm;
+	//pdr
 	
 	
   public LoginPagePOM getloginPageManager() {
